@@ -1,4 +1,4 @@
-# Podcast Generator
+# Podcast Generator (linkedin course project (modified))
 
 A GitHub Action that automatically generates a podcast RSS feed from a YAML configuration file.
 
